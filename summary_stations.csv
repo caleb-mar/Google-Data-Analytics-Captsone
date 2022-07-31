@@ -1,0 +1,1280 @@
+start_station_name,member_casual,number_of_rides
+LBS - BBB La Magie,casual,1
+Special Events,casual,1
+DIVVY Map Frame B/C Station,casual,2
+MTL-ECO5.1-01,casual,2
+South Chicago Ave & Elliot Ave,member,2
+DIVVY CASSETTE REPAIR MOBILE STATION,member,3
+Stewart Ave & 63rd St (*),casual,3
+Vincennes Ave & 75th St,member,3
+Racine Ave & 61st St,member,4
+Racine Ave & 65th St,member,4
+Rhodes Ave & 71st St,member,4
+Seeley Ave & Garfield Blvd,member,4
+Calumet Ave & 71st St,member,5
+Michigan Ave & 71st St,member,5
+Ashland Ave & 66th St,casual,6
+Carpenter St & 63rd St,member,6
+MTL-ECO5.1-01,member,6
+Racine Ave & 61st St,casual,6
+Racine Ave & 65th St,casual,6
+Archer (Damen) Ave & 37th St (*),casual,7
+Elizabeth St & 47th St,casual,7
+Kostner Ave & Adams St,casual,7
+Carpenter St & 63rd St,casual,8
+Eggleston Ave & 69th St (*),casual,8
+Michigan Ave & 71st St,casual,8
+Ashland Ave & Garfield Blvd,casual,10
+Cicero Ave & Flournoy St,casual,10
+Elizabeth St & 59th St,member,10
+Kostner Ave & Lake St,casual,10
+May St & 69th St,casual,10
+Shields Ave & 43rd St,casual,10
+South Chicago Ave & Elliot Ave,casual,10
+Stony Island Ave & South Chicago Ave,casual,10
+MLK Jr Dr & 56th St (*),casual,11
+South Chicago Ave & 83rd St,member,11
+Damen Ave & 59th St,casual,12
+Kostner Ave & Lake St,member,12
+Wabash Ave & 83rd St,casual,12
+Bennett Ave & 79th St,casual,13
+Damen Ave & 59th St,member,13
+Halsted St & 51st St,member,13
+Laramie Ave & Gladys Ave,casual,13
+Rhodes Ave & 71st St,casual,13
+Marshfield Ave & 59th St,casual,14
+Evans Ave & 75th St,casual,15
+Morgan St & Pershing Rd,casual,15
+Ashland Ave & 63rd St,casual,16
+Ashland Ave & 69th St,casual,16
+Halsted St & 59th St,casual,16
+May St & 69th St,member,16
+Woodlawn Ave & 75th St,member,16
+DIVVY Map Frame B/C Station,member,17
+Seeley Ave & Garfield Blvd,casual,17
+Halsted St & 47th Pl,casual,18
+Halsted St & 51st St,casual,18
+Stony Island Ave & South Chicago Ave,member,18
+HUBBARD ST BIKE CHECKING (LBS-WH-TEST),member,19
+Shields Ave & 43rd St,member,19
+Cicero Ave & Quincy St,member,20
+Damen Ave & 51st St,casual,20
+Exchange Ave & 79th St,casual,20
+Vincennes Ave & 75th St,casual,20
+Central Park Ave & 24th St,member,21
+Cicero Ave & Flournoy St,member,21
+Exchange Ave & 79th St,member,21
+Greenwood Ave & 79th St,casual,21
+Kenton Ave & Madison St,casual,21
+Cottage Grove Ave & 71st St,member,22
+Halsted St & 59th St,member,22
+Throop St & 52nd St,member,22
+Halsted St & 35th St (*),casual,23
+Halsted St & 56th St,casual,23
+Latrobe Ave & Chicago Ave,casual,23
+Throop St & 52nd St,casual,23
+Phillips Ave & 79th St,casual,24
+Commercial Ave & 83rd St,casual,25
+Halsted St & 63rd St,casual,25
+Pulaski Rd & Congress Pkwy,casual,25
+South Chicago Ave & 83rd St,casual,25
+Washtenaw Ave & Ogden Ave (*),casual,25
+Central Ave & Harrison St,member,26
+Cottage Grove Ave & 71st St,casual,27
+Ellis Ave & 83rd St,casual,27
+Karlov Ave & Madison St,casual,27
+Phillips Ave & 83rd St,casual,27
+Wabash Ave & 83rd St,member,27
+Ashland Ave & 69th St,member,28
+Calumet Ave & 71st St,casual,28
+Commercial Ave & 83rd St,member,28
+Bennett Ave & 79th St,member,29
+Eggleston Ave & 69th St (*),member,29
+Vernon Ave & 79th St,casual,29
+Cicero Ave & Lake St,casual,30
+Cottage Grove Ave & 83rd St,member,30
+Laramie Ave & Kinzie St,casual,30
+Marshfield Ave & 59th St,member,30
+Perry Ave & 69th St,casual,30
+Cottage Grove Ave & 78th St,casual,31
+Ellis Ave & 83rd St,member,31
+Pulaski Rd & Lake St,casual,31
+State St & 76th St,casual,31
+Kedzie Ave & 24th St,casual,32
+Laramie Ave & Gladys Ave,member,32
+State St & 54th St,casual,32
+Kenton Ave & Madison St,member,33
+Marshfield Ave & 44th St,casual,33
+Cottage Grove Ave & 67th St,casual,34
+Stony Island Ave & 82nd St,casual,34
+Woodlawn Ave & 75th St,casual,34
+Central Park Blvd & 5th Ave,casual,35
+Cicero Ave & Quincy St,casual,35
+Stony Island Ave & 82nd St,member,35
+Kedzie Ave & Harrison St,casual,36
+Ashland Ave & 50th St,casual,37
+Halsted St & 69th St,casual,37
+Hoyne Ave & 47th St,casual,37
+Laflin St & Cullerton St,casual,39
+Stewart Ave & 63rd St (*),member,39
+Damen Ave & 51st St,member,40
+Wentworth Ave & 63rd St,casual,40
+Wolcott Ave & Fargo Ave,casual,40
+Ashland Ave & 66th St,member,41
+Central Ave & Madison St,casual,41
+Evans Ave & 75th St,member,41
+Ashland Ave & McDowell Ave,casual,42
+Halsted St & 69th St,member,42
+Laramie Ave & Kinzie St,member,42
+Phillips Ave & 79th St,member,42
+Jeffery Blvd & 76th St,casual,43
+State St & 76th St,member,43
+Sacramento Blvd & Franklin Blvd,casual,44
+Stony Island Ave & 75th St,casual,44
+Central Park Ave & 24th St,casual,45
+Princeton Ave & Garfield Blvd,casual,45
+California Ave & 26th St,casual,46
+MLK Jr Dr & 63rd St,casual,46
+State St & 79th St,casual,46
+Cottage Grove Ave & 78th St,member,47
+Yates Blvd & 75th St,casual,48
+Damen Ave & Pershing Rd,member,49
+Wabash Ave & 87th St,casual,49
+Laramie Ave & Madison St,casual,50
+Vernon Ave & 79th St,member,50
+Ashland Ave & 63rd St,member,51
+Central Ave & Harrison St,casual,51
+Clark St & Touhy Ave,casual,51
+Halsted St & 56th St,member,51
+MLK Jr Dr & 56th St (*),member,51
+Ashland Ave & 50th St,member,53
+Central Ave & Lake St,casual,53
+Central Ave & Lake St,member,53
+Central Park Blvd & 5th Ave,member,53
+Damen Ave & Coulter St,casual,53
+Phillips Ave & 83rd St,member,53
+Central Ave & Chicago Ave,casual,55
+MLK Jr Dr & 56th St,casual,55
+Western Ave & 28th St,casual,55
+Austin Blvd & Chicago Ave,casual,57
+Marshfield Ave & 44th St,member,57
+State St & Pershing Rd,casual,57
+Vernon Ave & 75th St,casual,57
+Western Blvd & 48th Pl,casual,59
+Cicero Ave & Lake St,member,60
+Princeton Ave & 47th St,casual,60
+Clinton St & Polk St (*),casual,61
+Racine Ave & Garfield Blvd,casual,62
+State St & 54th St,member,63
+Ashland Ave & Pershing Rd,casual,64
+Kilbourn Ave & Irving Park Rd,casual,64
+Latrobe Ave & Chicago Ave,member,65
+Millard Ave & 26th St,casual,65
+MLK Jr Dr & 83rd St,casual,67
+Elizabeth St & 47th St,member,68
+Kedzie Ave & Roosevelt Rd,casual,68
+Halsted St & 37th St,casual,69
+Yates Blvd & 75th St,member,69
+Austin Blvd & Chicago Ave,member,71
+Stony Island Ave & 67th St,member,73
+Kedzie Ave & 21st St,casual,76
+Eberhart Ave & 61st St,member,77
+Jeffery Blvd & 71st St,casual,77
+Rainbow Beach,member,77
+Albany Ave & 26th St,casual,79
+Cottage Grove Ave & 83rd St,casual,79
+Loomis St & Taylor St (*),casual,79
+Bosworth Ave & Howard St,casual,80
+Kedzie Ave & 24th St,member,82
+MLK Jr Dr & 63rd St,member,82
+Stony Island Ave & 71st St,casual,82
+Jeffery Blvd & 76th St,member,83
+Karlov Ave & Madison St,member,83
+Kostner Ave & Adams St,member,83
+Austin Blvd & Madison St,casual,84
+California Ave & 23rd Pl,casual,85
+Perry Ave & 69th St,member,85
+Stony Island Ave & 75th St,member,85
+Western Ave & 24th St,casual,85
+Wood St & 35th St,casual,85
+Milwaukee Ave & Cuyler Ave,casual,86
+Union Ave & Root St,casual,86
+Jeffery Blvd & 67th St,member,87
+Stony Island Ave & 64th St,member,87
+Vernon Ave & 75th St,member,88
+Wabash Ave & 87th St,member,89
+Eberhart Ave & 61st St,casual,90
+Pulaski Rd & Congress Pkwy,member,92
+Central Park Ave & Ogden Ave,casual,95
+Maplewood Ave & Peterson Ave,casual,95
+Pulaski Rd & Lake St,member,95
+California Ave & Francis Pl (Temp),casual,96
+Laramie Ave & Madison St,member,96
+Archer (Damen) Ave & 37th St,casual,97
+Central Ave & Madison St,member,97
+Cottage Grove Ave & 67th St,member,97
+MLK Jr Dr & 56th St,member,97
+Rainbow Beach,casual,98
+Archer (Damen) Ave & 37th St (*),member,99
+Wentworth Ave & 63rd St,member,99
+Millard Ave & 26th St,member,102
+Austin Blvd & Madison St,member,104
+MLK Jr Dr & 83rd St,member,104
+Greenwood Ave & 79th St,member,106
+Bernard St & Elston Ave,casual,107
+Damen Ave & Pershing Rd,casual,107
+Cornell Dr & Hayes Dr,member,109
+Cottage Grove Ave & 63rd St,casual,111
+Valli Produce - Evanston Plaza,casual,111
+Orleans St & Elm St (*),casual,112
+Dodge Ave & Mulford St,casual,114
+MLK Jr Dr & 47th St,casual,114
+Morgan St & Pershing Rd,member,114
+California Ave & Lake St,casual,115
+Indiana Ave & 40th St,casual,116
+Cornell Dr & Hayes Dr,casual,120
+Kedzie Ave & Harrison St,member,120
+California Ave & 26th St,member,121
+Keystone Ave & Montrose Ave,casual,124
+Racine Ave (May St) & Fulton St,casual,125
+2112 W Peterson Ave,casual,127
+South Shore Dr & 74th St,casual,129
+Wolcott (Ravenswood) Ave & Montrose Ave (*),casual,129
+Manor Ave & Leland Ave,casual,134
+Wentworth Ave & 24th St,casual,134
+Lincolnwood Dr & Central St,casual,137
+Racine Ave & 35th St,casual,137
+Clark St & Jarvis Ave,casual,140
+Kedzie Ave & Roosevelt Rd,member,141
+Leavitt St & Archer Ave,casual,141
+Ogden Ave & Congress Pkwy,casual,141
+Austin Blvd & Lake St,casual,142
+Stony Island Ave & 67th St,casual,143
+Albany Ave & 26th St,member,144
+Ashland Ave & Garfield Blvd,member,144
+Clark St & Columbia Ave,casual,144
+Knox Ave & Montrose Ave,casual,144
+Western Ave & Granville Ave,casual,145
+Kedzie Ave & Chicago Ave,casual,146
+Shields Ave & 28th Pl,casual,146
+Central Park Ave & Ogden Ave,member,148
+Cherry Ave & Blackhawk St,casual,148
+Dorchester Ave & 49th St,casual,149
+Pulaski Rd & Eddy St (Temp),casual,150
+Warren Park East,casual,151
+Ashland Ave & 13th St,casual,152
+Hoyne Ave & 47th St,member,152
+Halsted St & 63rd St,member,153
+Normal Ave & Archer Ave,casual,153
+Shields Ave & 31st St,casual,153
+Kildare Ave & Montrose Ave,casual,154
+Central Ave & Chicago Ave,member,155
+Jeffery Blvd & 71st St,member,156
+Stony Island Ave & 64th St,casual,156
+Fairfield Ave & Roosevelt Rd,casual,162
+Western Ave & 28th St,member,162
+State St & 29th St,casual,164
+Western Ave & 21st St,casual,165
+State St & Pershing Rd,member,166
+Elmwood Ave & Austin St,casual,167
+Halsted St & 35th St,casual,168
+Kedzie Ave & Lake St,casual,168
+Western Ave & Howard St,casual,168
+Cottage Grove Ave & 43rd St,casual,169
+Canal St & Monroe St (*),casual,170
+Ridge Blvd & Howard St,casual,170
+Sangamon St & Washington Blvd (*),casual,172
+Central St & Girard Ave,casual,174
+Ridge Blvd & Touhy Ave,casual,174
+Ashland Ave & Lake St (Temp),casual,176
+Damen Ave & Coulter St,member,178
+California Ave & 21st St,casual,179
+Dearborn St & Van Buren St (*),casual,179
+Evanston Civic Center,casual,181
+St. Louis Ave & Balmoral Ave,casual,181
+Oakley Ave & Touhy Ave,casual,182
+Stony Island Ave & 71st St,member,182
+Ogden Ave & Roosevelt Rd,casual,185
+Western Blvd & 48th Pl,member,185
+Kilbourn Ave & Milwaukee Ave,casual,186
+Loomis St & Archer Ave,casual,186
+Calumet Ave & 51st St,casual,187
+Ashland Ave & Archer Ave,casual,188
+Union Ave & Root St,member,190
+Ashland Ave & 21st St,casual,193
+Monticello Ave & Irving Park Rd,casual,195
+Maplewood Ave & Peterson Ave,member,196
+Racine Ave & 13th St,casual,196
+South Shore Dr & 74th St,member,197
+Orleans St & Hubbard St (*),casual,198
+Keystone Ave & Fullerton Ave,casual,199
+State St & 79th St,member,200
+Kedzie Ave & Foster Ave,casual,201
+Budlong Woods Library,casual,202
+Financial Pl & Ida B Wells Dr (Temp),casual,202
+Emerald Ave & 28th St,casual,204
+Dodge Ave & Church St,casual,207
+Washtenaw Ave & Ogden Ave,casual,207
+Campbell Ave & Montrose Ave,casual,209
+Dorchester Ave & 63rd St,casual,211
+Drake Ave & Addison St,casual,211
+DuSable Museum,casual,211
+Western Ave & Lunt Ave,casual,213
+Drake Ave & Montrose Ave,casual,216
+Cottage Grove Ave & 51st St,casual,217
+Glenwood Ave & Touhy Ave,casual,217
+Wolcott Ave & Fargo Ave,member,218
+Western Ave & Fillmore St (*),casual,220
+Fairfield Ave & Roosevelt Rd,member,222
+Damen Ave & Walnut (Lake) St (*),casual,224
+Calumet Ave & 35th St,casual,227
+Halsted St & 47th Pl,member,231
+MLK Jr Dr & Pershing Rd,casual,234
+Racine Ave & Garfield Blvd,member,234
+Dodge Ave & Mulford St,member,239
+Racine Ave & 15th St,casual,239
+Wallace St & 35th St,casual,239
+Laflin St & Cullerton St,member,240
+Sawyer Ave & Irving Park Rd,casual,242
+Fairbanks St & Superior St (*),casual,250
+Wood St & 35th St,member,250
+Wentworth Ave & 33rd St,casual,251
+Central St Metra,casual,253
+Clinton St & Polk St,casual,255
+Kedzie Ave & Bryn Mawr Ave,casual,255
+Princeton Ave & 47th St,member,256
+Conservatory Dr & Lake St,casual,258
+Halsted St & 35th St (*),member,259
+Malcolm X College,casual,259
+Cottage Grove Ave & 47th St,casual,260
+Kosciuszko Park,casual,261
+Smith Park (*),casual,262
+Central Park Ave & Elbridge Ave,casual,266
+Oakley Ave & Touhy Ave,member,266
+Dorchester Ave & 63rd St,member,267
+Central Park Ave & North Ave,casual,268
+Halsted St & North Branch St,casual,270
+Albany Ave & Montrose Ave,casual,271
+Christiana Ave & Lawrence Ave,casual,272
+May St & Cullerton St,casual,272
+Spaulding Ave & Division St,casual,272
+MLK Jr Dr & 47th St,member,273
+Evanston Civic Center,member,277
+Western Ave & Monroe St,casual,277
+Indiana Ave & 40th St,member,278
+Kildare Ave & Montrose Ave,member,278
+Washtenaw Ave & Ogden Ave (*),member,279
+Emerald Ave & 31st St,casual,280
+Wood St & Taylor St,casual,280
+Leavitt St & Division St (*),casual,281
+Prairie Ave & Garfield Blvd,casual,283
+Wentworth Ave & 24th St (Temp),casual,284
+Austin Blvd & Lake St,member,286
+Clark St & Schreiber Ave,casual,286
+Wentworth Ave & 24th St,member,286
+Canal St & Harrison St,casual,289
+Kedzie Ave & Leland Ave,casual,289
+Western Ave & Roscoe St,casual,291
+Clinton St & Jackson Blvd (*),casual,296
+Warren Park West,casual,298
+Cottage Grove Ave & 63rd St,member,299
+Woodlawn Ave & Lake Park Ave,casual,304
+Ashland Ave & Pershing Rd,member,305
+Leavitt St & Archer Ave,member,305
+Avers Ave & Belmont Ave,casual,306
+Rockwell St & Eastwood Ave,casual,308
+Calumet Ave & 33rd St,casual,309
+Oakley Ave & Irving Park Rd,casual,311
+Budlong Woods Library,member,314
+Hermitage Ave & Polk St,casual,315
+Prairie Ave & 43rd St,casual,318
+Jeffery Blvd & 67th St,casual,319
+Halsted St & 18th St,casual,321
+South Shore Dr & 67th St,member,323
+Francisco Ave & Foster Ave,casual,325
+Halsted St & Archer Ave,casual,325
+Kedzie Ave & Bryn Mawr Ave,member,325
+Western Ave & Congress Pkwy,casual,331
+Ravenswood Ave & Berteau Ave,casual,332
+Claremont Ave & Hirsch St,casual,333
+Lincoln Ave & Winona St,casual,333
+Valli Produce - Evanston Plaza,member,334
+Washtenaw Ave & Lawrence Ave,casual,335
+Hoyne Ave & Balmoral Ave,casual,340
+Winchester (Ravenswood) Ave & Balmoral Ave,casual,340
+South Shore Dr & 67th St,casual,349
+Lincoln Ave & Addison St,casual,352
+Greenview Ave & Jarvis Ave,casual,355
+Avondale Ave & Irving Park Rd,casual,358
+Kedzie Ave & 21st St,member,359
+Leavitt St & Lawrence Ave,casual,360
+Eastlake Ter & Rogers Ave,casual,363
+Throop (Loomis) St & Taylor St,casual,365
+Troy St & Elston Ave,casual,365
+Archer (Damen) Ave & 37th St,member,367
+State St & 35th St,casual,369
+2112 W Peterson Ave,member,372
+South Shore Dr & 71st St,casual,372
+Clark St & Lunt Ave,casual,373
+Morgan St & 31st St,casual,373
+Ridge Blvd & Howard St,member,374
+DuSable Museum,member,381
+Leavitt St & Addison St,casual,382
+Orleans St & Elm St,casual,384
+Leavitt St & Belmont Ave (*),casual,385
+Bosworth Ave & Howard St,member,386
+Clark St & Touhy Ave,member,386
+California Ave & Byron St,casual,388
+Cottage Grove Ave & Oakwood Blvd,member,389
+Clark St & Elmdale Ave,casual,390
+Clinton St & 18th St,casual,405
+Racine Ave & Washington Blvd (*),casual,408
+Cottage Grove Ave & Oakwood Blvd,casual,409
+Indiana Ave & 31st St,casual,409
+Kimball Ave & Belmont Ave,casual,409
+Damen Ave & Sunnyside Ave,casual,413
+Greenwood Ave & 47th St,casual,416
+Elizabeth (May) St & Fulton St,casual,417
+Wolcott (Ravenswood) Ave & Montrose Ave,casual,417
+Morgan Ave & 14th Pl,casual,421
+Prairie Ave & 43rd St,member,421
+Kilbourn Ave & Irving Park Rd,member,422
+Warren Park West,member,430
+Sheridan Rd & Columbia Ave,casual,434
+Halsted St & 21st St,casual,438
+Halsted St & Clybourn Ave (*),casual,438
+Ashland Ave & Archer Ave,member,439
+Southport Ave & Clark St,casual,440
+Elston Ave & Wabansia Ave,casual,444
+California Ave & Altgeld St,casual,448
+Talman Ave & Addison St,casual,448
+Indiana Ave & 26th St,casual,452
+Princeton Ave & Garfield Blvd,member,453
+Sheridan Rd & Greenleaf Ave,casual,455
+LaSalle Dr & Huron St (*),casual,456
+Chicago Ave & Dempster St,casual,458
+Stave St & Armitage Ave,casual,458
+Paulina St & Howard St,casual,462
+Conservatory Dr & Lake St,member,463
+Keystone Ave & Montrose Ave,member,466
+Chicago Ave & Washington St,casual,474
+Knox Ave & Montrose Ave,member,477
+Loomis St & Jackson Blvd,casual,481
+Kilbourn Ave & Milwaukee Ave,member,482
+Wood St & Augusta Blvd,casual,483
+Western Ave & 24th St,member,484
+Milwaukee Ave & Cuyler Ave,member,485
+Wentworth Ave & 35th St,casual,487
+Wood St & Hubbard St,casual,488
+Calumet Ave & 51st St,member,491
+63rd St Beach,member,501
+Damen Ave & Cullerton St,casual,502
+Larrabee St & Menomonee St,casual,503
+Drake Ave & Fullerton Ave,casual,504
+Ashland Ave & Belle Plaine Ave,casual,509
+Campbell Ave & Fullerton Ave,casual,509
+Sacramento Blvd & Franklin Blvd,member,509
+Artesian Ave & Hubbard St,casual,511
+California Ave & Montrose Ave,casual,514
+Racine Ave & Congress Pkwy,casual,514
+Troy St & North Ave,casual,514
+Wood St & Chicago Ave (*),casual,519
+Ashland Ave & McDowell Ave,member,521
+Damen Ave & Foster Ave,casual,521
+Clinton St & Tilden St,casual,526
+Paulina St & Montrose Ave,casual,529
+Ellis Ave & 53rd St,casual,533
+California Ave & Fletcher St,casual,537
+Harper Ave & 59th St,casual,539
+Ashland Ave & Wellington Ave,casual,541
+Pulaski Rd & Eddy St (Temp),member,542
+State St & 29th St,member,542
+Kedzie Ave & Chicago Ave,member,544
+Ashland Ave & Grand Ave,casual,547
+Rhodes Ave & 32nd St,casual,549
+Paulina St & Flournoy St,casual,554
+Bernard St & Elston Ave,member,555
+Leavitt St & Chicago Ave,casual,559
+St. Louis Ave & Balmoral Ave,member,559
+Damen Ave & Clybourn Ave,casual,562
+California Ave & Francis Pl,casual,563
+Lincoln Ave & Waveland Ave,casual,563
+Richmond St & Diversey Ave,casual,565
+Damen Ave & Melrose Ave,casual,568
+South Shore Dr & 71st St,member,571
+Clybourn Ave & Division St,casual,574
+Racine Ave & 35th St,member,574
+Cherry Ave & Blackhawk St,member,582
+Wolcott Ave & Polk St,casual,582
+Clark St & Jarvis Ave,member,583
+Clark St & Montrose Ave,casual,583
+University Library (NU),casual,584
+Paulina St & 18th St,casual,585
+Washtenaw Ave & Ogden Ave,member,587
+California Ave & North Ave,casual,592
+Dorchester Ave & 49th St,member,594
+Larrabee St & North Ave,casual,594
+State St & 33rd St,casual,596
+Winchester Ave & Elston Ave,casual,598
+Glenwood Ave & Morse Ave,casual,600
+Ashland Ave & Augusta Blvd,casual,602
+Keystone Ave & Fullerton Ave,member,607
+Ashland Ave & Lake St,casual,609
+Woodlawn Ave & 55th St,casual,609
+Franklin St & Quincy St,casual,610
+Lincolnwood Dr & Central St,member,623
+California Ave & Division St,casual,631
+Ridge Blvd & Touhy Ave,member,635
+Kedzie Ave & Palmer Ct,casual,637
+Cottage Grove Ave & 43rd St,member,640
+Sedgwick St & Schiller St,casual,644
+Kedzie Ave & Lake St,member,645
+Western Ave & Howard St,member,649
+Logan Blvd & Elston Ave,casual,650
+California Ave & Lake St,member,651
+Sangamon St & Washington Blvd,casual,660
+Halsted St & Roosevelt Rd,casual,667
+Spaulding Ave & Division St,member,669
+Clark St & Bryn Mawr Ave,casual,670
+Ravenswood Ave & Irving Park Rd,casual,670
+California Ave & Cortez St,casual,671
+Damen Ave & Wellington Ave,casual,671
+Lincoln Ave & Sunnyside Ave,casual,671
+Franklin St & Illinois St,casual,672
+Western Ave & Granville Ave,member,674
+Halsted St & 37th St,member,686
+Leavitt St & Armitage Ave,casual,688
+California Ave & 21st St,member,691
+Ellis Ave & 58th St,casual,691
+Chicago Ave & Sheridan Rd,casual,692
+63rd St Beach,casual,693
+Damen Ave & Grand Ave,casual,695
+Halsted St & 35th St,member,699
+Financial Pl & Ida B Wells Dr,casual,703
+Sawyer Ave & Irving Park Rd,member,714
+Clark St & Leland Ave,casual,715
+Damen Ave & Leland Ave,casual,721
+Buckingham Fountain (Temp),member,725
+Cottage Grove Ave & 47th St,member,726
+Sheridan Rd & Noyes St (NU),casual,726
+Seeley Ave & Roscoe St,casual,727
+Ashland Ave & Grace St,casual,728
+Orleans St & Hubbard St,casual,728
+Racine Ave & Randolph St,casual,728
+Cottage Grove Ave & 51st St,member,734
+Blackstone Ave & Hyde Park Blvd,casual,739
+MLK Jr Dr & 29th St,casual,747
+Damen Ave & Madison St,casual,750
+Lincoln Ave & Belle Plaine Ave,casual,750
+Albany Ave & Montrose Ave,member,753
+California Ave & Francis Pl (Temp),member,758
+Clinton St & Polk St (*),member,762
+State St & 19th St,casual,764
+Kedzie Ave & Foster Ave,member,765
+Warren Park East,member,769
+Clark St & 9th St (AMLI),casual,772
+Calumet Ave & 35th St,member,773
+Dodge Ave & Church St,member,773
+Larrabee St & Oak St,casual,773
+Ada St & Washington Blvd,casual,774
+Wentworth Ave & 24th St (Temp),member,774
+Smith Park (*),member,780
+Blue Island Ave & 18th St,casual,785
+Drake Ave & Montrose Ave,member,785
+California Ave & Byron St,member,786
+Milwaukee Ave & Rockwell St,casual,787
+Franklin St & Chicago Ave (Temp),casual,789
+Elmwood Ave & Austin St,member,795
+Winthrop Ave & Lawrence Ave,casual,795
+Eckhart Park,casual,805
+California Ave & 23rd Pl,member,810
+Franklin St & Chicago Ave,casual,812
+MLK Jr Dr & Pershing Rd,member,819
+Campbell Ave & North Ave,casual,829
+Lake Park Ave & 47th St,casual,830
+Ogden Ave & Race Ave,casual,834
+Central Park Ave & North Ave,member,837
+Spaulding Ave & Armitage Ave,casual,839
+Halsted St & Polk St,casual,840
+Sheridan Rd & Buena Ave,casual,842
+Western Ave & Division St,casual,852
+Ashland Ave & 21st St,member,856
+Monticello Ave & Irving Park Rd,member,863
+Noble St & Milwaukee Ave,casual,867
+Greenview Ave & Diversey Pkwy,casual,874
+Western Ave & Walton St,casual,876
+Loomis St & Lexington St,casual,882
+Shields Ave & 28th Pl,member,882
+Western Ave & Leland Ave,casual,882
+Wabash Ave & Cermak Rd,casual,886
+Damen Ave & Thomas St (Augusta Blvd),casual,889
+Clarendon Ave & Leland Ave,casual,890
+Sheridan Rd & Lawrence Ave,casual,890
+Racine Ave & 13th St,member,895
+Jefferson St & Monroe St,casual,897
+Christiana Ave & Lawrence Ave,member,900
+Dearborn St & Van Buren St,casual,900
+Avers Ave & Belmont Ave,member,904
+Morgan St & 18th St,casual,904
+Glenwood Ave & Touhy Ave,member,917
+Damen Ave & Charleston St,casual,920
+Wells St & 19th St,casual,927
+Broadway & Ridge Ave,casual,932
+Wolcott (Ravenswood) Ave & Montrose Ave (*),member,934
+Ashland Ave & Chicago Ave,casual,941
+Ashland Ave & Wrightwood Ave,casual,951
+Central St & Girard Ave,member,954
+Clark St & Ida B Wells Dr,casual,960
+Humboldt Blvd & Armitage Ave,casual,964
+Kedzie Ave & Leland Ave,member,968
+Leavitt St & North Ave,casual,971
+Lake Park Ave & 56th St,casual,972
+Racine Ave & Wrightwood Ave,casual,972
+Ashland Ave & Blackhawk St,casual,973
+Fairbanks St & Superior St,casual,975
+900 W Harrison St,casual,980
+Morgan St & Polk St,casual,981
+Wallace St & 35th St,member,982
+Carpenter St & Huron St,casual,983
+Racine Ave & 18th St,casual,984
+Southport Ave & Irving Park Rd,casual,984
+Halsted St & Maxwell St,casual,985
+Central Park Ave & Bloomingdale Ave,member,1000
+Manor Ave & Leland Ave,member,1004
+Normal Ave & Archer Ave,member,1019
+Southport Ave & Belmont Ave,casual,1026
+Western Ave & 21st St,member,1032
+Canal St & Monroe St,casual,1039
+Museum of Science and Industry,member,1042
+Albany Ave & Bloomingdale Ave,casual,1055
+Halsted St & 21st St,member,1056
+Troy St & North Ave,member,1063
+Central Park Ave & Bloomingdale Ave,casual,1069
+Prairie Ave & Garfield Blvd,member,1076
+Lake Park Ave & 35th St,casual,1078
+Woodlawn Ave & Lake Park Ave,member,1082
+Broadway & Berwyn Ave,casual,1086
+Walsh Park,casual,1092
+Western Ave & Lunt Ave,member,1099
+Clinton St & Polk St,member,1105
+Benson Ave & Church St,casual,1127
+Greenwood Ave & 47th St,member,1127
+Wentworth Ave & 33rd St,member,1127
+Damen Ave & Division St,casual,1128
+Broadway & Argyle St,casual,1130
+LaSalle St & Adams St,casual,1135
+Clark St & Schreiber Ave,member,1164
+Loomis St & Archer Ave,member,1167
+Kimbark Ave & 53rd St,casual,1169
+Sheridan Rd & Greenleaf Ave,member,1172
+Orleans St & Chestnut St (NEXT Apts),casual,1176
+Sheridan Rd & Loyola Ave,casual,1176
+Francisco Ave & Foster Ave,member,1179
+Lincoln Ave & Belmont Ave,casual,1182
+Lake Park Ave & 47th St,member,1192
+May St & Taylor St,casual,1195
+Clinton St & Roosevelt Rd,casual,1203
+Ellis Ave & 55th St,casual,1208
+Halsted St & Willow St,casual,1213
+California Ave & Fletcher St,member,1232
+Central St Metra,member,1232
+Franklin St & Adams St (Temp),casual,1233
+Clark St & Winnemac Ave,casual,1234
+Broadway & Wilson Ave,casual,1242
+Clinton St & Jackson Blvd,casual,1251
+Wentworth Ave & 35th St,member,1256
+Malcolm X College,member,1257
+Central Park Ave & Elbridge Ave,member,1263
+Sheffield Ave & Willow St,casual,1263
+Lincoln Ave & Roscoe St,casual,1264
+Lincoln Ave & Winona St,member,1271
+Wells St & 19th St,member,1273
+Aberdeen St & Monroe St,casual,1275
+Damen Ave & Cullerton St,member,1277
+Canal St & Jackson Blvd,casual,1278
+Aberdeen St & Jackson Blvd,casual,1291
+Wentworth Ave & Cermak Rd (Temp),casual,1293
+Kimball Ave & Belmont Ave,member,1296
+Chicago Ave & Sheridan Rd,member,1300
+Leavitt St & Addison St,member,1301
+Wacker Dr & Washington St,casual,1307
+Orleans St & Elm St (*),member,1320
+Clark St & Columbia Ave,member,1321
+Ellis Ave & 60th St,casual,1328
+Paulina Ave & North Ave,casual,1334
+Wells St & Walton St,casual,1336
+Sedgwick St & Huron St,casual,1341
+Leavitt St & Belmont Ave (*),member,1347
+Clifton Ave & Armitage Ave,casual,1348
+Damen Ave & Chicago Ave,casual,1348
+California Ave & Montrose Ave,member,1355
+Burling St (Halsted) & Diversey Pkwy (Temp),casual,1357
+Ogden Ave & Roosevelt Rd,member,1359
+Hoyne Ave & Balmoral Ave,member,1364
+Desplaines St & Jackson Blvd,casual,1368
+Sheridan Rd & Columbia Ave,member,1375
+Michigan Ave & 18th St,casual,1376
+Damen Ave & Madison St,member,1379
+Racine Ave & Fullerton Ave,casual,1393
+Broadway & Thorndale Ave,casual,1403
+Lake Park Ave & 53rd St,casual,1403
+Ashland Ave & Lake St (Temp),member,1410
+Chicago Ave & Dempster St,member,1421
+Loomis St & Taylor St (*),member,1422
+Western Ave & Monroe St,member,1422
+Drake Ave & Addison St,member,1423
+Larrabee St & Division St,casual,1429
+Delano Ct & Roosevelt Rd,casual,1431
+Ogden Ave & Chicago Ave,casual,1431
+Rhodes Ave & 32nd St,member,1434
+Canal St & Taylor St,casual,1436
+Ogden Ave & Congress Pkwy,member,1441
+Clark St & Berwyn Ave,casual,1445
+LaSalle St & Washington St,casual,1450
+Southport Ave & Wrightwood Ave,casual,1453
+Wells St & Polk St,casual,1454
+Western Ave & Winnebago Ave,casual,1465
+Morgan St & 31st St,member,1467
+Peoria St & Jackson Blvd,casual,1469
+Avondale Ave & Irving Park Rd,member,1477
+Oakley Ave & Irving Park Rd,member,1488
+Southport Ave & Clybourn Ave,casual,1493
+Ravenswood Ave & Lawrence Ave,casual,1499
+Lincoln Ave & Diversey Pkwy,casual,1501
+Greenview Ave & Jarvis Ave,member,1507
+Rush St & Hubbard St,casual,1524
+Halsted St & Clybourn Ave,casual,1525
+Rockwell St & Eastwood Ave,member,1533
+Wabash Ave & 16th St,casual,1538
+Washtenaw Ave & Lawrence Ave,member,1540
+Western Ave & Congress Pkwy,member,1549
+California Ave & Division St,member,1556
+Lake Park Ave & 35th St,member,1556
+Racine Ave & 15th St,member,1564
+Winchester (Ravenswood) Ave & Balmoral Ave,member,1565
+Troy St & Elston Ave,member,1573
+Sheridan Rd & Montrose Ave,casual,1575
+Honore St & Division St,casual,1582
+Larrabee St & Armitage Ave,casual,1583
+May St & Cullerton St,member,1584
+Halsted St & Wrightwood Ave,casual,1585
+Clarendon Ave & Junior Ter,casual,1596
+Greenview Ave & Fullerton Ave,casual,1602
+Michigan Ave & 14th St,casual,1607
+Sheridan Rd & Irving Park Rd,casual,1607
+Dayton St & North Ave,casual,1612
+Broadway & Sheridan Rd,casual,1613
+Sheffield Ave & Kingsbury St,casual,1626
+Halsted St & North Branch St,member,1639
+Broadway & Granville Ave,casual,1648
+Clarendon Ave & Gordon Ter,casual,1651
+University Ave & 57th St,casual,1658
+Halsted St & Archer Ave,member,1663
+Damen Ave & Walnut (Lake) St (*),member,1678
+LaSalle Dr & Huron St,casual,1693
+Racine Ave (May St) & Fulton St,member,1714
+Dearborn St & Van Buren St (*),member,1719
+Kingsbury St & Erie St,casual,1721
+Aberdeen St & Randolph St,casual,1727
+Sheffield Ave & Wrightwood Ave,casual,1731
+Southport Ave & Wellington Ave,casual,1732
+Dearborn St & Adams St,casual,1751
+Richmond St & Diversey Ave,member,1762
+Desplaines St & Randolph St,casual,1763
+Franklin St & Lake St,casual,1769
+Cornell Ave & Hyde Park Blvd,casual,1773
+Pine Grove Ave & Irving Park Rd,casual,1774
+Fairbanks St & Superior St (*),member,1804
+Eastlake Ter & Rogers Ave,member,1822
+Damen Ave & Melrose Ave,member,1839
+Shields Ave & 31st St,member,1841
+Wood St & Milwaukee Ave,casual,1859
+Kosciuszko Park,member,1864
+University Library (NU),member,1864
+Drake Ave & Fullerton Ave,member,1880
+McCormick Place,member,1880
+California Ave & Milwaukee Ave,casual,1903
+Racine Ave & Belmont Ave,casual,1925
+Larrabee St & Kingsbury St,casual,1928
+Clinton St & Lake St,casual,1932
+Emerald Ave & 28th St,member,1934
+Clark St & Chicago Ave,casual,1935
+Ashland Ave & 13th St,member,1938
+Calumet Ave & 21st St,member,1942
+State St & 19th St,member,1945
+Lincoln Park Conservatory,member,1947
+State St & Harrison St,casual,1955
+Talman Ave & Addison St,member,1968
+Indiana Ave & 26th St,member,1971
+Lincoln Ave & Addison St,member,1992
+Marine Dr & Ainslie St,casual,1998
+Halsted St & 18th St,member,1999
+California Ave & Francis Pl,member,2000
+Broadway & Waveland Ave,casual,2001
+Clark St & Elmdale Ave,member,2010
+Damen Ave & Sunnyside Ave,member,2036
+Calumet Ave & 21st St,casual,2040
+Paulina St & Montrose Ave,member,2044
+Halsted St & Dickens Ave,casual,2052
+Milwaukee Ave & Wabansia Ave,casual,2056
+Campbell Ave & Fullerton Ave,member,2062
+Milwaukee Ave & Grand Ave,casual,2068
+Paulina St & Howard St,member,2074
+Lincoln Park Conservatory,casual,2076
+Damen Ave & Cortland St,casual,2089
+Federal St & Polk St,casual,2097
+California Ave & Altgeld St,member,2103
+Wilton Ave & Diversey Pkwy,casual,2114
+Financial Pl & Ida B Wells Dr (Temp),member,2119
+Stave St & Armitage Ave,member,2121
+Clark St & Wellington Ave,casual,2125
+Sheffield Ave & Webster Ave,casual,2150
+Sheffield Ave & Wellington Ave,casual,2153
+Wabash Ave & Cermak Rd,member,2163
+Ritchie Ct & Banks St,casual,2164
+Wabash Ave & Adams St,casual,2169
+State St & Pearson St,casual,2173
+Marshfield Ave & Cortland St,casual,2175
+Clinton St & 18th St,member,2208
+Elston Ave & Wabansia Ave,member,2211
+Leavitt St & Lawrence Ave,member,2232
+Campbell Ave & Montrose Ave,member,2236
+LaSalle Dr & Huron St (*),member,2237
+State St & Van Buren St,casual,2253
+Chicago Ave & Washington St,member,2283
+Ashland Ave & Belle Plaine Ave,member,2298
+Southport Ave & Clark St,member,2316
+Western Ave & Roscoe St,member,2330
+Clark St & Grace St,casual,2334
+Clark St & Lake St,casual,2342
+Glenwood Ave & Morse Ave,member,2345
+State St & 35th St,member,2355
+Sedgwick St & North Ave,casual,2361
+Wolcott (Ravenswood) Ave & Montrose Ave,member,2363
+Clark St & Randolph St,casual,2370
+Calumet Ave & 18th St,casual,2376
+Sheridan Rd & Noyes St (NU),member,2380
+Green St & Madison St,casual,2381
+Milwaukee Ave & Rockwell St,member,2388
+Stetson Ave & South Water St,casual,2390
+Bissell St & Armitage Ave,casual,2397
+Kedzie Ave & Milwaukee Ave,casual,2409
+Dearborn St & Monroe St,casual,2416
+Kingsbury St & Kinzie St,casual,2417
+Winchester Ave & Elston Ave,member,2418
+LaSalle St & Jackson Blvd,casual,2421
+Field Museum,member,2424
+Orleans St & Hubbard St (*),member,2441
+Clark St & Schiller St,casual,2447
+Southport Ave & Roscoe St,casual,2464
+Leavitt St & Division St (*),member,2472
+Ravenswood Ave & Berteau Ave,member,2488
+Clark St & Lunt Ave,member,2495
+Walsh Park,member,2497
+Lakefront Trail & Wilson Ave,casual,2507
+Wentworth Ave & Cermak Rd (Temp),member,2552
+Wells St & Elm St,casual,2559
+Sheridan Rd & Loyola Ave,member,2575
+Indiana Ave & 31st St,member,2580
+Clarendon Ave & Leland Ave,member,2595
+Southport Ave & Waveland Ave,casual,2598
+Sedgwick St & Webster Ave,casual,2600
+Orleans St & Merchandise Mart Plaza,casual,2602
+Cannon Dr & Fullerton Ave,member,2604
+Western Ave & Fillmore St (*),member,2619
+Sangamon St & Washington Blvd (*),member,2631
+Halsted St & Roscoe St,casual,2641
+Morgan St & Lake St,casual,2650
+Museum of Science and Industry,casual,2654
+Desplaines St & Kinzie St,casual,2657
+Wabash Ave & 9th St,casual,2679
+California Ave & North Ave,member,2682
+Sheridan Rd & Lawrence Ave,member,2686
+Shore Dr & 55th St,casual,2710
+Spaulding Ave & Armitage Ave,member,2715
+Canal St & Madison St,casual,2724
+Buckingham Fountain,member,2734
+Blackstone Ave & Hyde Park Blvd,member,2736
+Broadway & Belmont Ave,casual,2760
+Harper Ave & 59th St,member,2771
+Calumet Ave & 33rd St,member,2805
+Clinton St & Washington Blvd,casual,2805
+Broadway & Granville Ave,member,2813
+Dearborn Pkwy & Delaware Pl,casual,2832
+Albany Ave & Bloomingdale Ave,member,2847
+Clark St & Newport St,casual,2852
+Damen Ave & Clybourn Ave,member,2866
+Humboldt Blvd & Armitage Ave,member,2876
+Paulina St & 18th St,member,2878
+Lake Park Ave & 53rd St,member,2885
+Rush St & Superior St,casual,2900
+Michigan Ave & Madison St,casual,2909
+Orleans St & Elm St,member,2917
+McClurg Ct & Erie St,casual,2926
+Damen Ave & Wellington Ave,member,2946
+Seeley Ave & Roscoe St,member,2974
+Broadway & Thorndale Ave,member,2976
+Pine Grove Ave & Waveland Ave,casual,2994
+Claremont Ave & Hirsch St,member,3006
+Lincoln Ave & Fullerton Ave,casual,3006
+Sheffield Ave & Fullerton Ave,casual,3023
+Broadway & Cornelia Ave,casual,3025
+Ashland Ave & Division St,casual,3059
+Larrabee St & Webster Ave,casual,3063
+Green St & Randolph St,casual,3108
+Canal St & Harrison St,member,3113
+Emerald Ave & 31st St,member,3124
+Clark St & Drummond Pl,casual,3125
+Ashland Ave & Wellington Ave,member,3141
+Field Blvd & South Water St,casual,3150
+Wells St & Huron St,casual,3156
+Wells St & Evergreen Ave,casual,3160
+Clark St & Wrightwood Ave,casual,3197
+Franklin St & Quincy St,member,3203
+Franklin St & Jackson Blvd,casual,3204
+Leavitt St & Armitage Ave,member,3237
+Damen Ave & Foster Ave,member,3253
+Kedzie Ave & Palmer Ct,member,3274
+Marine Dr & Ainslie St,member,3274
+State St & Kinzie St,casual,3282
+Sedgwick St & Schiller St,member,3316
+Larrabee St & North Ave,member,3382
+Leavitt St & Chicago Ave,member,3386
+Lincoln Ave & Belle Plaine Ave,member,3394
+Morgan St & 18th St,member,3400
+Wells St & Hubbard St,casual,3400
+Winthrop Ave & Lawrence Ave,member,3404
+Greenview Ave & Diversey Pkwy,member,3420
+Burnham Harbor,casual,3445
+Wood St & Hubbard St,member,3470
+Mies van der Rohe Way & Chicago Ave,casual,3498
+Clark St & Bryn Mawr Ave,member,3500
+Broadway & Ridge Ave,member,3504
+Franklin St & Monroe St,casual,3510
+Damen Ave & Charleston St,member,3515
+Logan Blvd & Elston Ave,member,3539
+Stockton Dr & Wrightwood Ave,casual,3549
+Daley Center Plaza,casual,3551
+Fort Dearborn Dr & 31st St,member,3554
+California Ave & Cortez St,member,3571
+Western Ave & Division St,member,3574
+Woodlawn Ave & 55th St,member,3588
+Lincoln Ave & Waveland Ave,member,3622
+Cannon Dr & Fullerton Ave,casual,3646
+Clark St & North Ave,casual,3656
+Campbell Ave & North Ave,member,3673
+McCormick Place,casual,3679
+Morgan Ave & 14th Pl,member,3683
+Lakefront Trail & Wilson Ave,member,3706
+Loomis St & Jackson Blvd,member,3706
+Throop (Loomis) St & Taylor St,member,3710
+Buckingham Fountain (Temp),casual,3722
+Ravenswood Ave & Irving Park Rd,member,3725
+Elizabeth (May) St & Fulton St,member,3731
+Ashland Ave & Lake St,member,3750
+Clarendon Ave & Junior Ter,member,3751
+Canal St & Monroe St (*),member,3752
+Sheridan Rd & Buena Ave,member,3762
+State St & Randolph St,casual,3765
+Clark St & 9th St (AMLI),member,3770
+Ellis Ave & 53rd St,member,3821
+Rush St & Cedar St,casual,3851
+Wabash Ave & Roosevelt Rd,casual,3876
+Wilton Ave & Belmont Ave,casual,3888
+Clark St & Montrose Ave,member,3900
+Dearborn St & Van Buren St,member,3902
+Canal St & Adams St,casual,3912
+Clinton St & Madison St,casual,3949
+Buckingham Fountain,casual,3951
+Damen Ave & Grand Ave,member,3956
+Racine Ave & 18th St,member,3972
+Fairbanks St & Superior St,member,3982
+Lincoln Ave & Sunnyside Ave,member,3987
+Fort Dearborn Dr & 31st St,casual,4011
+Ashland Ave & Grace St,member,4014
+Cityfront Plaza Dr & Pioneer Ct,casual,4029
+Ashland Ave & Grand Ave,member,4032
+Racine Ave & Washington Blvd (*),member,4036
+Michigan Ave & Ida B Wells Dr,casual,4047
+LaSalle St & Illinois St,casual,4104
+Dearborn St & Erie St,casual,4119
+Halsted St & Clybourn Ave (*),member,4123
+Damen Ave & Pierce Ave,casual,4154
+Broadway & Barry Ave,casual,4187
+Benson Ave & Church St,member,4191
+Leavitt St & North Ave,member,4262
+Broadway & Argyle St,member,4283
+Clark St & Elm St,casual,4292
+Wabash Ave & Wacker Pl,casual,4306
+Ashland Ave & Wrightwood Ave,member,4320
+Michigan Ave & Ida B Wells Dr,member,4348
+Broadway & Berwyn Ave,member,4362
+Sheffield Ave & Waveland Ave,casual,4410
+Wood St & Chicago Ave (*),member,4434
+Wells St & Concord Ln,casual,4468
+Racine Ave & Wrightwood Ave,member,4488
+Cornell Ave & Hyde Park Blvd,member,4507
+Lake Shore Dr & Wellington Ave,casual,4509
+Hermitage Ave & Polk St,member,4562
+Lake Park Ave & 56th St,member,4568
+Lakefront Trail & Bryn Mawr Ave,casual,4584
+Western Ave & Leland Ave,member,4593
+Franklin St & Illinois St,member,4634
+Mies van der Rohe Way & Chestnut St,casual,4637
+Larrabee St & Menomonee St,member,4661
+St. Clair St & Erie St,casual,4668
+Clinton St & Roosevelt Rd,member,4694
+Ashland Ave & Chicago Ave,member,4695
+Ashland Ave & Augusta Blvd,member,4706
+Southport Ave & Belmont Ave,member,4736
+Shore Dr & 55th St,member,4740
+Southport Ave & Irving Park Rd,member,4771
+Dusable Harbor,member,4775
+Lake Shore Dr & Diversey Pkwy,casual,4775
+Clark St & Leland Ave,member,4841
+Franklin St & Chicago Ave (Temp),member,4842
+Racine Ave & Randolph St,member,4930
+Adler Planetarium,member,4946
+Damen Ave & Leland Ave,member,4982
+Wood St & Augusta Blvd,member,5022
+Ellis Ave & 58th St,member,5063
+Lakeview Ave & Fullerton Pkwy,casual,5100
+Paulina St & Flournoy St,member,5155
+Delano Ct & Roosevelt Rd,member,5172
+Financial Pl & Ida B Wells Dr,member,5195
+Fairbanks Ct & Grand Ave,casual,5197
+Orleans St & Hubbard St,member,5252
+Sangamon St & Washington Blvd,member,5271
+Lakefront Trail & Bryn Mawr Ave,member,5350
+Southport Ave & Wrightwood Ave,member,5400
+Western Ave & Walton St,member,5402
+Michigan Ave & 8th St,member,5439
+Michigan Ave & Pearson St,casual,5441
+Blue Island Ave & 18th St,member,5494
+Racine Ave & Belmont Ave,member,5499
+Michigan Ave & Lake St,casual,5521
+Damen Ave & Thomas St (Augusta Blvd),member,5525
+Lincoln Ave & Belmont Ave,member,5527
+Clybourn Ave & Division St,member,5530
+Eckhart Park,member,5543
+Michigan Ave & Pearson St,member,5553
+Clark St & Berwyn Ave,member,5565
+Calumet Ave & 18th St,member,5572
+Montrose Harbor,member,5581
+LaSalle St & Adams St,member,5633
+Paulina Ave & North Ave,member,5654
+Ashland Ave & Blackhawk St,member,5670
+Clark St & Grace St,member,5711
+Wood St & Taylor St,member,5746
+Greenview Ave & Fullerton Ave,member,5757
+Racine Ave & Congress Pkwy,member,5762
+Noble St & Milwaukee Ave,member,5771
+Clark St & North Ave,member,5870
+Shedd Aquarium,member,5872
+Clinton St & Jackson Blvd (*),member,5891
+State St & 33rd St,member,5921
+Lake Shore Dr & Belmont Ave,casual,5949
+State St & Harrison St,member,5950
+Sheridan Rd & Montrose Ave,member,5978
+Halsted St & Roosevelt Rd,member,5980
+Franklin St & Adams St (Temp),member,6011
+Artesian Ave & Hubbard St,member,6021
+900 W Harrison St,member,6032
+Halsted St & Maxwell St,member,6054
+Larrabee St & Armitage Ave,member,6142
+Lincoln Ave & Diversey Pkwy,member,6152
+Clarendon Ave & Gordon Ter,member,6202
+May St & Taylor St,member,6242
+Canal St & Taylor St,member,6293
+Wabash Ave & Grand Ave,casual,6297
+Ritchie Ct & Banks St,member,6301
+LaSalle Dr & Huron St,member,6310
+Broadway & Wilson Ave,member,6347
+Carpenter St & Huron St,member,6379
+Halsted St & Willow St,member,6400
+Clark St & Newport St,member,6404
+Clinton St & Tilden St,member,6439
+Ellis Ave & 60th St,member,6470
+Wells St & Walton St,member,6497
+Lake Shore Dr & Ohio St,casual,6538
+Kedzie Ave & Milwaukee Ave,member,6689
+Clark St & Armitage Ave,casual,6706
+Clifton Ave & Armitage Ave,member,6728
+Clark St & Lincoln Ave,casual,6809
+Clark St & Winnemac Ave,member,6862
+Honore St & Division St,member,6866
+Damen Ave & Division St,member,6871
+MLK Jr Dr & 29th St,member,6895
+Broadway & Sheridan Rd,member,6900
+Ada St & Washington Blvd,member,6917
+Orleans St & Chestnut St (NEXT Apts),member,6998
+Sheffield Ave & Wrightwood Ave,member,7025
+Michigan Ave & Jackson Blvd,casual,7033
+Lincoln Ave & Roscoe St,member,7071
+McClurg Ct & Illinois St,casual,7075
+Damen Ave & Cortland St,member,7086
+Southport Ave & Clybourn Ave,member,7091
+California Ave & Milwaukee Ave,member,7176
+Western Ave & Winnebago Ave,member,7264
+Wells St & Polk St,member,7274
+Ogden Ave & Race Ave,member,7318
+Michigan Ave & 14th St,member,7350
+Field Blvd & South Water St,member,7361
+Kimbark Ave & 53rd St,member,7429
+Lake Shore Dr & Diversey Pkwy,member,7508
+Halsted St & Polk St,member,7522
+Field Museum,casual,7647
+Stockton Dr & Wrightwood Ave,member,7651
+Burnham Harbor,member,7669
+Ellis Ave & 55th St,member,7709
+Wabash Ave & Wacker Pl,member,7783
+Pine Grove Ave & Irving Park Rd,member,7825
+Wabash Ave & 16th St,member,7882
+Jefferson St & Monroe St,member,7894
+Columbus Dr & Randolph St,casual,7909
+Larrabee St & Oak St,member,7914
+Lake Shore Dr & Belmont Ave,member,7939
+Sheffield Ave & Waveland Ave,member,7964
+Damen Ave & Chicago Ave,member,8004
+Racine Ave & Fullerton Ave,member,8021
+Halsted St & Roscoe St,member,8057
+Milwaukee Ave & Wabansia Ave,member,8074
+Michigan Ave & 18th St,member,8122
+Halsted St & Wrightwood Ave,member,8157
+Broadway & Belmont Ave,member,8162
+Sheffield Ave & Willow St,member,8173
+Franklin St & Chicago Ave,member,8207
+Indiana Ave & Roosevelt Rd,casual,8224
+Dayton St & North Ave,member,8263
+Southport Ave & Wellington Ave,member,8268
+Michigan Ave & Madison St,member,8336
+Montrose Harbor,casual,8342
+Lake Shore Dr & Ohio St,member,8375
+Lake Shore Dr & Wellington Ave,member,8404
+Aberdeen St & Monroe St,member,8417
+Burling St (Halsted) & Diversey Pkwy (Temp),member,8501
+Clark St & Chicago Ave,member,8549
+Wood St & Milwaukee Ave,member,8551
+Larrabee St & Division St,member,8623
+Southport Ave & Waveland Ave,member,8629
+Michigan Ave & Jackson Blvd,member,8657
+Ogden Ave & Chicago Ave,member,8720
+State St & Van Buren St,member,8817
+Aberdeen St & Randolph St,member,8840
+Wolcott Ave & Polk St,member,8860
+Halsted St & Dickens Ave,member,8887
+Mies van der Rohe Way & Chicago Ave,member,9097
+Broadway & Waveland Ave,member,9099
+Rush St & Cedar St,member,9154
+Wabash Ave & Adams St,member,9225
+Pine Grove Ave & Waveland Ave,member,9248
+State St & Pearson St,member,9289
+Clark St & Wellington Ave,member,9329
+Sedgwick St & Webster Ave,member,9330
+Canal St & Jackson Blvd,member,9350
+Broadway & Cornelia Ave,member,9458
+Rush St & Hubbard St,member,9580
+Lakeview Ave & Fullerton Pkwy,member,9660
+Sheffield Ave & Webster Ave,member,9672
+Michigan Ave & 8th St,casual,9710
+Mies van der Rohe Way & Chestnut St,member,9856
+Desplaines St & Randolph St,member,9885
+LaSalle St & Washington St,member,9918
+Clark St & Drummond Pl,member,10092
+Larrabee St & Webster Ave,member,10096
+Southport Ave & Roscoe St,member,10142
+Federal St & Polk St,member,10160
+Stetson Ave & South Water St,member,10223
+Wabash Ave & 9th St,member,10238
+Dearborn St & Adams St,member,10284
+Halsted St & Clybourn Ave,member,10299
+Sheffield Ave & Wellington Ave,member,10412
+Sheffield Ave & Kingsbury St,member,10443
+Aberdeen St & Jackson Blvd,member,10750
+University Ave & 57th St,member,10797
+Lake Shore Dr & Monroe St,member,10845
+Cityfront Plaza Dr & Pioneer Ct,member,10886
+Sheridan Rd & Irving Park Rd,member,10998
+Lincoln Ave & Fullerton Ave,member,11010
+Green St & Randolph St,member,11036
+Clark St & Ida B Wells Dr,member,11070
+Rush St & Superior St,member,11346
+Canal St & Monroe St,member,11372
+Clark St & Schiller St,member,11581
+Wells St & Evergreen Ave,member,11939
+Sedgwick St & North Ave,member,11970
+Adler Planetarium,casual,12031
+Peoria St & Jackson Blvd,member,12198
+Michigan Ave & Washington St,casual,12379
+Clark St & Wrightwood Ave,member,12465
+Morgan St & Polk St,member,12576
+Millennium Park,member,12641
+Dusable Harbor,casual,12694
+McClurg Ct & Erie St,member,12878
+Marshfield Ave & Cortland St,member,12909
+Loomis St & Lexington St,member,12940
+Clinton St & Jackson Blvd,member,12971
+Bissell St & Armitage Ave,member,12980
+Desplaines St & Jackson Blvd,member,13013
+Clark St & Lincoln Ave,member,13139
+McClurg Ct & Illinois St,member,13215
+Sedgwick St & Huron St,member,13254
+Wells St & Elm St,member,13282
+Milwaukee Ave & Grand Ave,member,13421
+Clark St & Lake St,member,13510
+Indiana Ave & Roosevelt Rd,member,13572
+Ravenswood Ave & Lawrence Ave,member,13592
+Wilton Ave & Diversey Pkwy,member,13598
+Clark St & Randolph St,member,13652
+Franklin St & Lake St,member,13782
+Green St & Madison St,member,13882
+Broadway & Barry Ave,member,14000
+Dearborn Pkwy & Delaware Pl,member,14237
+LaSalle St & Illinois St,member,14285
+Michigan Ave & Oak St,member,14333
+Wacker Dr & Washington St,member,14507
+Streeter Dr & Grand Ave,member,14963
+Wilton Ave & Belmont Ave,member,14988
+Clark St & Armitage Ave,member,15206
+Sheffield Ave & Fullerton Ave,member,15212
+Theater on the Lake,casual,15363
+State St & Kinzie St,member,15455
+Fairbanks Ct & Grand Ave,member,15476
+Morgan St & Lake St,member,15614
+Damen Ave & Pierce Ave,member,15738
+Lake Shore Dr & North Blvd,member,15854
+State St & Randolph St,member,15958
+Ashland Ave & Division St,member,16318
+Wabash Ave & Roosevelt Rd,member,16337
+Franklin St & Jackson Blvd,member,16800
+Theater on the Lake,member,17306
+Michigan Ave & Lake St,member,17341
+Kingsbury St & Erie St,member,17457
+Wells St & Hubbard St,member,17458
+St. Clair St & Erie St,member,17740
+Dearborn St & Monroe St,member,17917
+Wabash Ave & Grand Ave,member,18531
+Wells St & Concord Ln,member,19083
+Lake Shore Dr & North Blvd,casual,19150
+Desplaines St & Kinzie St,member,19837
+Dearborn St & Erie St,member,20688
+Shedd Aquarium,casual,20781
+Larrabee St & Kingsbury St,member,21185
+Orleans St & Merchandise Mart Plaza,member,21414
+Michigan Ave & Oak St,casual,21633
+Wells St & Huron St,member,21727
+Millennium Park,casual,21901
+Clinton St & Lake St,member,21936
+Clark St & Elm St,member,22190
+LaSalle St & Jackson Blvd,member,22879
+Michigan Ave & Washington St,member,24858
+Canal St & Madison St,member,26173
+Daley Center Plaza,member,30611
+Kingsbury St & Kinzie St,member,30916
+Franklin St & Monroe St,member,30982
+Columbus Dr & Randolph St,member,31053
+Lake Shore Dr & Monroe St,casual,39686
+Clinton St & Washington Blvd,member,43590
+Clinton St & Madison St,member,46191
+Canal St & Adams St,member,51948
+Streeter Dr & Grand Ave,casual,53415
