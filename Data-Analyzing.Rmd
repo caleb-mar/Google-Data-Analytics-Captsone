@@ -234,20 +234,9 @@ all_trips_v2 %>%
 
 ```{r exporting data}
 
-#counts <- aggregate(all_trips_v2$ride_length ~ all_trips_v2$member_casual + all_trips_v2$day_of_week, FUN = mean)
-#write.csv(counts, file = 'C:/Users/cmfoo/OneDrive/Documents/Google/avg._ride_length.csv')
+counts <- aggregate(all_trips_v2$ride_length ~ all_trips_v2$member_casual + all_trips_v2$day_of_week, FUN = mean)
+write.csv(counts, file = 'C:/Users/cmfoo/OneDrive/Documents/Google/avg._ride_length.csv')
 
-```
-
-```{r sation summary}
-
-summary_station <- all_trips_v2 %>% 
-  mutate(station = start_station_name) %>%
-  drop_na(start_station_name) %>% 
-  group_by(start_station_name, member_casual) %>%  
-  summarise(number_of_rides = n()) %>%    
-  arrange(number_of_rides)
-  write_csv(summary_station, "summary_stations.csv")
 ```
 
 
